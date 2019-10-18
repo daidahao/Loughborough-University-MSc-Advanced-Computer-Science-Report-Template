@@ -2,7 +2,7 @@
 
 LaTEX Report Template for Loughborough University MSc Advacenced Computer Science Modules.
 
-Adopted from [davestevens/Loughborough-University-PhD-Thesis-Template](https://github.com/davestevens/Loughborough-University-PhD-Thesis-Template).
+Adapted from [davestevens/Loughborough-University-PhD-Thesis-Template](https://github.com/davestevens/Loughborough-University-PhD-Thesis-Template).
 
 ## Usage
 
