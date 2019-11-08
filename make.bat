@@ -1,11 +1,11 @@
 call clean
 
-xelatex report
+pdflatex report
 
 bibtex report
 
-xelatex report
+pdflatex report
 
-xelatex report
+pdflatex report
 call clean
 report.pdf

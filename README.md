@@ -1,6 +1,6 @@
 # Loughborough University MSc Advanced Computer Science Report Template
 
-LaTEX Report Template for Loughborough University MSc Advacenced Computer Science Modules.
+LaTeX Report Template for Loughborough University MSc Advacenced Computer Science Modules.
 
 Adapted from [davestevens/Loughborough-University-PhD-Thesis-Template](https://github.com/davestevens/Loughborough-University-PhD-Thesis-Template).
 

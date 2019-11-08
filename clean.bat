@@ -9,3 +9,4 @@ del *.toc /s
 del *.out /s
 del *.loa /s
 del *.nlo /s
+del *.lol /s

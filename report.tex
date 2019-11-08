@@ -48,6 +48,15 @@
 
 \usepackage{color}
 \usepackage{url}
+% Used for subfigures
+\usepackage{subcaption}
+% Used for landscape pages
+\usepackage{pdflscape}
+% Used for hyper-links in contents, etc.
+\usepackage[hidelinks]{hyperref}
+\hypersetup{
+    linktoc=all
+}
 
 % Global bibliography style
 \bibliographystyle{unsrt}
@@ -102,6 +111,7 @@
 % Use \include{<path to .tex file>} to include documents
 % For example
 \include{Chapter/Introduction}
+\include{Chapter/Examples}
 % \include{Chapter/Requirements}
 % \include{Chapter/Design}
 % \include{Chapter/Testing}
