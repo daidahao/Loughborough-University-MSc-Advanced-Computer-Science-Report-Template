@@ -1,4 +1,4 @@
-# Loughborough University MSc Advanced Computer Science Report Template
+# Loughborough University MSc Advanced Computer Science Template
 
 LaTeX Report & Slides Template for Loughborough University MSc Advacenced Computer Science Modules.
 
